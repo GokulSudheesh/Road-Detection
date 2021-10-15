@@ -1,6 +1,4 @@
-import os
 import cv2
-from datetime import datetime
 import argparse
 from Lane import Lane
 
