@@ -17,3 +17,5 @@ optional arguments:
                         Path to input video
   --dim DIM [DIM ...]   Width and height of the output frame
 ```
+
+<a href="https://drive.google.com/file/d/1G_bH90IqqyhrwreMOIyOXTInPuBOZOni/view?usp=sharing">Trained Model</a>
